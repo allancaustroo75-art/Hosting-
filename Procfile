@@ -1,1 +1,1 @@
-worker: python bot.py
+worker: snuked_bot.py
